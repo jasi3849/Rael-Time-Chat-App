@@ -15,7 +15,7 @@ Installation & Setup
 To run this project locally, follow these steps:
 
 1. Clone the Repository
-git clone https://github.com/your-username/real-time-chat-app.git
+git clone [https://github.com/your-username/real-time-chat-app.git](https://github.com/jasi3849/Real-Time-Chat-App.git)
 cd real-time-chat-app
 2. Install Dependencies
 For the Client (React Native App)
